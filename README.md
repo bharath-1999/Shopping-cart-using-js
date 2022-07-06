@@ -1,7 +1,7 @@
 # Shopping-cart using Vanilla Javascript,Html,Css
 
 
-I used local storage instead to store Cart  items instead of connecting to a backend database.
+I used local storage  to store Cart  items instead of connecting to a backend database.
 
 
 ## How to run
